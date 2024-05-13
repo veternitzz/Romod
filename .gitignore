@@ -1,0 +1,10 @@
+# Project place file
+/Romod.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Another place file (added by vet)
+/*romod.rbxl
+/*romod.rbxl.lock
